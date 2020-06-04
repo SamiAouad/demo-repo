@@ -6,3 +6,7 @@ Description of the project!
 
 other text
 
+## local developement
+
+1.open index.html in your browser
+
